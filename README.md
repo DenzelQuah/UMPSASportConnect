@@ -4,14 +4,16 @@
 
 UMPSA SPORT CONNECT is a cross-platform mobile application built with Flutter, designed to connect sports enthusiasts within the UMPSA community. The app leverages Firebase for authentication, cloud storage(Firestore Database), and real-time data management. 
 
-## Features
+## Pages
 
-- User authentication (Firebase Auth)
-- Real-time data sync (Cloud Firestore)
-- Media uploads (Firebase Storage)
-- Push notifications (Flutter Local Notifications)
-- Geolocation and mapping
-- Multi-platform support: Android, iOS, Web, Windows, Linux, macOS -(Do not have 
+1) Home Page
+2) Browse Event 
+3) Join Event
+4) Communication
+5) Host Event 
+6) Review Sport Skills
+7) Profile
+8) Feedback
 
 ## Getting Started
 
@@ -48,11 +50,11 @@ flutter run
 
 ## How to Use
 1) Register/Login: Create an account or log in using your UMPSA email.
-2) Browse Events: View upcoming sports events and activities.
+2) Browse Events: View upcoming sports events and activities. 
 3) Join/Create Events: Participate in existing events or organize your own.
-4) Share Media: Upload photos or documents related to events.
+4) Communicate User: Choose the user 
 5) Receive Notifications: Stay updated with real-time alerts.
-6) Find Nearby Events: Use the map to discover events close to your location.
+6) 
 
 ## Limitations
 1) Internet Required: The app needs an active internet connection for most features.
