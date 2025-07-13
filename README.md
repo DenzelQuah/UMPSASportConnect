@@ -1,27 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-# umpsafyp
+# UMPSA SPORT CONNECT
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-=======
->>>>>>> 6af494d2eae13b18704d5be4b56181fad1780676
-# UMPSASportConnect
-
-UMPSA SPORT CONNECT is a cross-platform mobile application built with Flutter, designed to connect sports enthusiasts within the UMPSA community. The app leverages Firebase for authentication, cloud storage, and real-time data management.
+UMPSA SPORT CONNECT is a cross-platform mobile application built with Flutter, designed to connect sports enthusiasts within the UMPSA community. The app leverages Firebase for authentication, cloud storage(Firestore Database), and real-time data management. 
 
 ## Features
 
@@ -30,7 +11,7 @@ UMPSA SPORT CONNECT is a cross-platform mobile application built with Flutter, d
 - Media uploads (Firebase Storage)
 - Push notifications (Flutter Local Notifications)
 - Geolocation and mapping
-- Multi-platform support: Android, iOS, Web, Windows, Linux, macOS
+- Multi-platform support: Android, iOS, Web, Windows, Linux, macOS -(Do not have 
 
 ## Getting Started
 
