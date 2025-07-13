@@ -54,7 +54,7 @@ flutter run
 3) Join/Create Events: Participate in existing events or organize your own.
 4) Communicate User: Choose the user 
 5) Receive Notifications: Stay updated with real-time alerts.
-6) 
+
 
 ## Limitations
 1) Internet Required: The app needs an active internet connection for most features.
